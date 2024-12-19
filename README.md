@@ -1,7 +1,7 @@
 # High-Performance Trading Applications  
 
 We specialize in crafting cutting-edge trading applications tailored to your financial aspirations. Whether you’re engaged in **stock day trading**, **cryptocurrency trading**, or **custom strategy development and testing**, our solutions prioritize **speed**, **accuracy**, and **reliability**.  
-
+![Banner](https://github.com/intellltech/Trading-application/blob/main/pro-trading.png)
 ## Stock Day Trading Applications  
 
 - Develop intuitive platforms for real-time stock trading.  
