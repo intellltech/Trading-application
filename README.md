@@ -1,5 +1,5 @@
 # Cryptocurrency Trading Applications  
-![Banner](https://github.com/intellltech/Trading-application/blob/main/trading-application.png)
+![Banner](https://github.com/intellltech/Trading-application/blob/main/trading application.png)
 
 I specialize in developing cutting-edge cryptocurrency trading platforms with advanced features like prediction models, secure wallet integration, and seamless multi-exchange support. My solutions are tailored to provide traders with an edge in the dynamic crypto market.  
 
