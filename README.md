@@ -3,6 +3,7 @@
 
 I specialize in developing cutting-edge cryptocurrency trading platforms with advanced features like prediction models, secure wallet integration, and seamless multi-exchange support. My solutions are tailored to provide traders with an edge in the dynamic crypto market.  
 
+![Banner](https://github.com/intellltech/Trading-application/blob/main/image.png)
 ## Key Features  
 
 - **Multi-Exchange Support**: Trade across multiple cryptocurrency exchanges from a single platform.  
