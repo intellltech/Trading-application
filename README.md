@@ -13,6 +13,7 @@ We specialize in crafting cutting-edge trading applications tailored to your fin
 - Build robust trading platforms with multi-exchange support.  
 - Enable secure wallet integrations for trading coins and tokens effortlessly.  
 - Incorporate tools for market analysis, portfolio tracking, and risk management.  
+![Banner](https://github.com/intellltech/Trading-application/blob/main/image.png)
 
 ## Strategy Writing & Testing  
 
